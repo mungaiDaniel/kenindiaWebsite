@@ -1,0 +1,14 @@
+{
+  "name": "kenindia-website",
+  "version": "0.0.0",
+  "description": "Everything from kenindia.com, organised for the rebuild.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": "true"
+}
